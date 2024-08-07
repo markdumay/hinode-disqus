@@ -64,6 +64,8 @@ home = ["HTML", "RSS", "REDIR"]
     disableInlineCSS = true
   [services.googleAnalytics]
     # ID = "G-xxxxxxxxxx"
+  [services.disqus]
+    shortname = 'hinode-test'
 
 [outputFormats]
   [outputFormats.XML]
